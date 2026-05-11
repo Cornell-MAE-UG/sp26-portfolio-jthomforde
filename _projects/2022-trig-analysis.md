@@ -1,25 +1,14 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
+title: Autonomous Cube Collection Robot
+description: Final design report for a competitive autonomous robot built for MAE 3780.
+technologies: [Arduino, CAD, Laser Cutting]
+image: assets/images/Mechatronics_final_project_pic.png
 ---
 
+Designed and built an autonomous cube-collecting robot for a competitive robotics project in MAE 3780. Our team focused on a simple, durable, and fast design using enlarged wheels, laser-cut acrylic components, and hardcoded navigation with QTI sensors for border detection. The robot successfully advanced to the round of 16 with a 5–2 record, demonstrating that reliability and simplicity can outperform overly complex strategies. The project involved mechanical design, CAD modeling, fabrication, embedded programming, and iterative testing. :contentReference[oaicite:0]{index=0}
 
-As part of a class project...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+## Full Report
 
-
-Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-
-This is how I solved the problem:
-
-```python
-    some code = 10;
-    plot();
-```
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
-
+The complete report PDF can be found here:  
+[**Heat Transfer Homework 3**]({{ "assets/Heat transfer hw 3.pdf" | relative_url }}) -->
