@@ -1,25 +1,26 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
-image: /assets/images/radio-machine-cad.jpg
+title: Heat Transfer HW 3 – Thermal Modeling and Resistance Networks
+description: MAE 3230 Portfolio Assignment
+technologies: [Heat Transfer, Conduction, Thermal Resistance Networks]
+image: assets/images/heat_transfer_image.jpeg
 ---
 
-For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
+## Project Overview
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+For this assignment I selected **Homework 3 from MAE 3240: Heat Transfer** because it emphasized how real thermal systems are modeled using energy balances and thermal resistance networks. The assignment covered several important heat transfer scenarios, including deriving the governing equation for a system with volumetric heat generation, analyzing steady state conduction through a composite wall with convection at the boundary, and evaluating the effect of a thermal barrier coating.
 
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+Across the problems, the focus was not only on solving equations but also on correctly identifying assumptions, boundary conditions, and energy flow terms. The composite wall problem required solving for temperature distributions and unknown material properties, while the TBC problem used a thermal resistance network to determine heat flux and maximum allowable surface temperatures. These problems illustrated how conduction, convection, and material properties interact to determine thermal performance in engineering systems.
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+---
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+## Reflection
 
-I was inspired by this old radio when I made this rendering:
+This homework was particularly valuable because it reinforced how engineers simplify complex thermal systems using assumptions and modeling techniques. Before solving the equations, I had to clearly define the physical system, identify energy inputs and outputs, and determine whether steady-state or transient assumptions applied. Writing out the governing equations and boundary conditions helped me better understand how heat transfer models are constructed rather than simply applying formulas.
 
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
+---
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+## Full Assignment
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+The complete homework PDF can be found here:  
+[**Heat Transfer Homework 3**]({{ "assets/Heat transfer hw 3.pdf" | relative_url }}) -->
