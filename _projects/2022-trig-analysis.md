@@ -11,4 +11,4 @@ Designed and built an autonomous cube-collecting robot for a competitive robotic
 ## Full Report
 
 The complete report PDF can be found here:  
-[**Heat Transfer Homework 3**]({{ "assets/Heat transfer hw 3.pdf" | relative_url }}) -->
+[**Mechatronics Final Report**]({{ "assets/MAE_3780_Final_Report_-_Group_1.pdf" | relative_url }}) -->
