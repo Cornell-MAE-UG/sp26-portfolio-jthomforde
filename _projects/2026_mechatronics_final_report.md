@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Autonomous Cube Collection Robot
+title: Mechatronics final Report
 description: Final design report for a competitive autonomous robot built for MAE 3780.
 technologies: [Arduino, CAD, Laser Cutting]
 image: assets/images/Mechatronics_final_project_pic.png
